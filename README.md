@@ -2,7 +2,7 @@
 
 ### Introduction
 
-Use this template to create a portfolio quicky. 
+Welcome to my Portfolio. I'm happy to show you how I developed my skills to become an experienced Data Analyst.  
 
 ### Installation
 
